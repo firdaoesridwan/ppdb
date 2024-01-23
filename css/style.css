@@ -1,0 +1,20 @@
+.navbar li a:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.navbar li a {
+  color: #fff;
+  text-decoration: none;
+  width: 100%;
+  display: block;
+  border-radius: 5px;
+  padding: 8px 5px;
+}
+
+body {
+  min-height: 5000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+}

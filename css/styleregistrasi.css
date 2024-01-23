@@ -1,0 +1,21 @@
+.form-control {
+  font-size: 0.8rem;
+  padding: 1.5 rem 1rem;
+}
+
+.card {
+  justify-content: center;
+  max-width: 400px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card img {
+  max-width: 120px;
+}
+
+button a:hover {
+  background-color: green;
+}
